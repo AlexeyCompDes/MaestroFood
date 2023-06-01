@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaestroFood/static/css/main.0a5d2d75.css",
+    "main.js": "/MaestroFood/static/js/main.8cb6f6d7.js",
+    "static/media/pngegg.png": "/MaestroFood/static/media/pngegg.dc51d99abe985656e5e4.png",
+    "static/media/11238604.png": "/MaestroFood/static/media/11238604.c1eb3a00c13fcf27237a.png",
+    "index.html": "/MaestroFood/index.html",
+    "main.0a5d2d75.css.map": "/MaestroFood/static/css/main.0a5d2d75.css.map",
+    "main.8cb6f6d7.js.map": "/MaestroFood/static/js/main.8cb6f6d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5d2d75.css",
+    "static/js/main.8cb6f6d7.js"
+  ]
+}
